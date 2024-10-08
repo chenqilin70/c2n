@@ -2646,10 +2646,10 @@ const chains = [
       "decimals": 18
     },
     "rpc": [
-      "http://localhost:8545"
+      "http://172.19.0.5:8545"
     ],
     "faucets": [],
-    "infoURL": "http://localhost:8545"
+    "infoURL": "http://172.19.0.5:8545"
   },
   {
     "name": "Catecoin Chain Mainnet",
