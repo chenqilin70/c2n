@@ -20,7 +20,7 @@ export const VALID_CHAINS = [
     name: "Localhost",
     chainId: 31337,
     logo: IconAppLogo,
-    shortName: "localhost",
+    shortName: "172.19.0.5",
     networkId: 31337,
     nativeCurrency: {
       name: "GO",

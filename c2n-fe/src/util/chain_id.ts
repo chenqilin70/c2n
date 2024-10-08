@@ -2638,7 +2638,7 @@ const chains = [
   {
     "name": "Localhost",
     "chainId": 31337,
-    "shortName": "localhost",
+    "shortName": "172.19.0.5",
     "networkId": 31337,
     "nativeCurrency": {
       "name": "GO",
