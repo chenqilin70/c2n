@@ -1,7 +1,7 @@
 #!/usr/bin/env sh
 
 module_name=portal-api
-
+pwd
 set -a
 source ../docker_build.env
 set +a
