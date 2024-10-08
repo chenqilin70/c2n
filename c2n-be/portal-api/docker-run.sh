@@ -1,6 +1,6 @@
 #!/usr/bin/env sh
 
-docker run -p 8080:8080 --name portal-api --restart: always    \
+docker run -p 8080:8080 --name portal-api --restart always    \
 -e SPRING_PROFILES_ACTIVE=dev    \
 -e TZ=Asia/Shanghai    \
 -e OWNER_PRIVATE_KEY=privatekey    \
